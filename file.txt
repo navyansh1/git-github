@@ -1,0 +1,2 @@
+checking some commands in git-github
+new changes added
